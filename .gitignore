@@ -1,0 +1,14 @@
+# Dados temporários de extração (Confidencial!)
+temp/
+*.lst
+
+# Saídas de resultados
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# IDEs
+.vscode/
+.idea/
